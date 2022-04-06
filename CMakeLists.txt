@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(OpenCVSamples)
+project(face_recognition_video)
 
 set(CMAKE_CXX_STANDARD 11)
 
